@@ -3,10 +3,23 @@
     <title>Mangeons local - Gedinne</title>
     <link href="https://jwallemacq.github.io/gac/feed.xml" rel="self" />
     <link href="https://jwallemacq.github.io/gac" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2022-12-14T10:38:26+01:00</updated>
     <author>
         <name>Isaline</name>
     </author>
     <id>https://jwallemacq.github.io/gac</id>
 
+    <entry>
+        <title>Mon premier post</title>
+        <author>
+            <name>Isaline</name>
+        </author>
+        <link href="https://jwallemacq.github.io/gac/mon-premier-post.html"/>
+        <id>https://jwallemacq.github.io/gac/mon-premier-post.html</id>
+            <category term="Producteurs"/>
+
+        <updated>2022-12-14T10:38:26+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

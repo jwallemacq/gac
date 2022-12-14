@@ -9,5 +9,18 @@
         "name": "Isaline"
     },
     "items": [
+        {
+            "id": "https://jwallemacq.github.io/gac/mon-premier-post.html",
+            "url": "https://jwallemacq.github.io/gac/mon-premier-post.html",
+            "title": "Mon premier post",
+            "author": {
+                "name": "Isaline"
+            },
+            "tags": [
+                   "Producteurs"
+            ],
+            "date_published": "2022-12-14T10:38:26+01:00",
+            "date_modified": "2022-12-14T10:38:26+01:00"
+        }
     ]
 }
