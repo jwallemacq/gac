@@ -1,0 +1,102 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "gac",
+    "description": "",
+    "home_page_url": "https://jwallemacq.github.io/gac",
+    "feed_url": "https://jwallemacq.github.io/gac/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jean"
+    },
+    "items": [
+        {
+            "id": "https://jwallemacq.github.io/gac/reunion-du-30-decembre.html",
+            "url": "https://jwallemacq.github.io/gac/reunion-du-30-decembre.html",
+            "title": "Réunion du 30 décembre",
+            "summary": "on boira un coup",
+            "content_html": "<p>on boira un coup</p>\n",
+            "author": {
+                "name": "jean"
+            },
+            "tags": [
+                   "réunions"
+            ],
+            "date_published": "2022-12-14T09:33:18+01:00",
+            "date_modified": "2022-12-14T09:33:18+01:00"
+        },
+        {
+            "id": "https://jwallemacq.github.io/gac/un-nouveau-producteur.html",
+            "url": "https://jwallemacq.github.io/gac/un-nouveau-producteur.html",
+            "title": "Un nouveau producteur",
+            "summary": "bla bal bla",
+            "content_html": "<p>bla bal bla</p>\n",
+            "author": {
+                "name": "jean"
+            },
+            "tags": [
+                   "producteurs"
+            ],
+            "date_published": "2022-12-13T18:42:27+01:00",
+            "date_modified": "2022-12-13T18:43:15+01:00"
+        },
+        {
+            "id": "https://jwallemacq.github.io/gac/reunion-du-23-decembre.html",
+            "url": "https://jwallemacq.github.io/gac/reunion-du-23-decembre.html",
+            "title": "Réunion du 23 décembre",
+            "summary": "Clôture des commandes le 20. Livraison des agrumes. Au ciné, comme d’habitude",
+            "content_html": "<p>Clôture des <em>commandes</em> le 20. Livraison des agrumes.  Au ciné, comme d’habitude</p>\n",
+            "author": {
+                "name": "jean"
+            },
+            "tags": [
+                   "réunions"
+            ],
+            "date_published": "2022-12-13T15:00:00+01:00",
+            "date_modified": "2022-12-13T15:00:00+01:00"
+        },
+        {
+            "id": "https://jwallemacq.github.io/gac/ferme-de-lesclaye.html",
+            "url": "https://jwallemacq.github.io/gac/ferme-de-lesclaye.html",
+            "title": "Ferme de l&#x27;Esclaye",
+            "author": {
+                "name": "jean"
+            },
+            "tags": [
+                   "producteurs"
+            ],
+            "date_published": "2022-12-13T14:44:25+01:00",
+            "date_modified": "2022-12-13T15:06:27+01:00"
+        },
+        {
+            "id": "https://jwallemacq.github.io/gac/ferme-de-la-yauge.html",
+            "url": "https://jwallemacq.github.io/gac/ferme-de-la-yauge.html",
+            "title": "Ferme de la Yauge",
+            "summary": "Voici le texte. Surtout du lait, de la glace et des yaourt",
+            "content_html": "<p>Voici le texte.  Surtout du lait, de la glace et des yaourt</p>\n",
+            "image": "https://jwallemacq.github.io/gac/media/posts/3/Logo-196w.webp",
+            "author": {
+                "name": "jean"
+            },
+            "tags": [
+                   "producteurs"
+            ],
+            "date_published": "2022-12-13T14:43:49+01:00",
+            "date_modified": "2022-12-13T18:55:40+01:00"
+        },
+        {
+            "id": "https://jwallemacq.github.io/gac/reunion-du-8-decembre.html",
+            "url": "https://jwallemacq.github.io/gac/reunion-du-8-decembre.html",
+            "title": "Réunion du 8 décembre",
+            "summary": "On s'est bien amusé",
+            "content_html": "<p>On s'est bien amusé</p>",
+            "author": {
+                "name": "jean"
+            },
+            "tags": [
+                   "réunions"
+            ],
+            "date_published": "2022-12-13T14:36:28+01:00",
+            "date_modified": "2022-12-13T14:36:28+01:00"
+        }
+    ]
+}

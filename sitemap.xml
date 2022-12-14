@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jwallemacq.github.io/gac/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jwallemacq.github.io/gac/</loc>
+</url>
+<url>
+<loc>https://jwallemacq.github.io/gac/a-propos-du-gac-de-gedinne.html</loc>
+<lastmod>2022-12-13T15:06:12+01:00</lastmod>
+</url>
+<url>
+<loc>https://jwallemacq.github.io/gac/ferme-de-la-yauge.html</loc>
+<lastmod>2022-12-13T18:55:40+01:00</lastmod>
+<image:image>
+<image:loc>https://jwallemacq.github.io/gac/media/posts/3/Logo-196w.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jwallemacq.github.io/gac/ferme-de-lesclaye.html</loc>
+<lastmod>2022-12-13T15:06:27+01:00</lastmod>
+</url>
+<url>
+<loc>https://jwallemacq.github.io/gac/reunion-du-23-decembre.html</loc>
+<lastmod>2022-12-13T14:57:38+01:00</lastmod>
+</url>
+<url>
+<loc>https://jwallemacq.github.io/gac/reunion-du-30-decembre.html</loc>
+<lastmod>2022-12-14T09:33:18+01:00</lastmod>
+</url>
+<url>
+<loc>https://jwallemacq.github.io/gac/reunion-du-8-decembre.html</loc>
+<lastmod>2022-12-13T14:36:28+01:00</lastmod>
+</url>
+<url>
+<loc>https://jwallemacq.github.io/gac/un-nouveau-producteur.html</loc>
+<lastmod>2022-12-13T18:43:15+01:00</lastmod>
+</url>
+</urlset>
