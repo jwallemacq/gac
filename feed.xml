@@ -3,14 +3,53 @@
     <title>Mangeons local - Gedinne</title>
     <link href="https://jwallemacq.github.io/gac/feed.xml" rel="self" />
     <link href="https://jwallemacq.github.io/gac" />
-    <updated>2022-12-14T10:38:26+01:00</updated>
+    <updated>2022-12-14T14:00:50+01:00</updated>
     <author>
         <name>Isaline</name>
     </author>
     <id>https://jwallemacq.github.io/gac</id>
 
     <entry>
-        <title>Mon premier post</title>
+        <title>Un GAC c&#x27;est quoi</title>
+        <author>
+            <name>Isaline</name>
+        </author>
+        <link href="https://jwallemacq.github.io/gac/un-gac-cest-quoi.html"/>
+        <id>https://jwallemacq.github.io/gac/un-gac-cest-quoi.html</id>
+            <category term="Un GAC c&#x27;est quoi?"/>
+
+        <updated>2022-12-14T13:36:48+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Fonctionnement</title>
+        <author>
+            <name>Isaline</name>
+        </author>
+        <link href="https://jwallemacq.github.io/gac/fonctionnement.html"/>
+        <id>https://jwallemacq.github.io/gac/fonctionnement.html</id>
+            <category term="Fonctionnement"/>
+
+        <updated>2022-12-14T13:36:34+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Isaline</name>
+        </author>
+        <link href="https://jwallemacq.github.io/gac/gac-cest-quoi.html"/>
+        <id>https://jwallemacq.github.io/gac/gac-cest-quoi.html</id>
+            <category term="Contact"/>
+
+        <updated>2022-12-14T13:36:27+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Producteurs</title>
         <author>
             <name>Isaline</name>
         </author>
@@ -18,7 +57,7 @@
         <id>https://jwallemacq.github.io/gac/mon-premier-post.html</id>
             <category term="Producteurs"/>
 
-        <updated>2022-12-14T10:38:26+01:00</updated>
+        <updated>2022-12-14T14:00:50+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
